@@ -1,8 +1,19 @@
 Overview
 ===============================
-This repository contains code and data associated with a paper in press in the Geological Society of America journal GEOLOGY. The manuscript is entitled "Magmatic activity and plate motion during the “latent stage” of Midcontinent Rift development" with the authors being: Nicholas L. Swanson-Hysell, Seth D. Burgess, Adam C. Maloof, and Samuel A. Bowring.
+This repository contains code and data associated with a paper published in the Geological Society of America journal GEOLOGY in 2014. The manuscript is entitled "Magmatic activity and plate motion during the latent stage of Midcontinent Rift development" authored by: Nicholas L. Swanson-Hysell, Seth D. Burgess, Adam C. Maloof, and Samuel A. Bowring. The article is availible in the UC eScholarship repository: http://escholarship.org/uc/item/989179cs
 
-Contents
+This work can be cited as:
+`
+@article{Swanson-Hysell2014a,
+	Author = {Swanson-Hysell, Nicholas L. and Burgess, Seth D. and Maloof, Adam C. and Bowring, Samuel A.},
+	Doi = {10.1130/G35271.1},
+	Journal = {Geology},
+	Title = {Magmatic activity and plate motion during the latent stage of {M}idcontinent {R}ift development},
+	Year = {2014}}
+`
+
+
+Contents of this repository
 ===============================
 
 Code
