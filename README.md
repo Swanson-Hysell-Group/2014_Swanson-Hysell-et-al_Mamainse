@@ -1,24 +1,19 @@
 Overview
 ===============================
-This repository contains code and data associated with a paper published in the Geological Society of America journal GEOLOGY in 2014. The manuscript is entitled "Magmatic activity and plate motion during the latent stage of Midcontinent Rift development" authored by: Nicholas L. Swanson-Hysell, Seth D. Burgess, Adam C. Maloof, and Samuel A. Bowring. The article is availible in the UC eScholarship repository: http://escholarship.org/uc/item/989179cs
+This repository contains code and data associated with a paper published in the Geological Society of America journal GEOLOGY in 2014. The manuscript is entitled "Magmatic activity and plate motion during the latent stage of Midcontinent Rift development" authored by: Nicholas L. Swanson-Hysell, Seth D. Burgess, Adam C. Maloof, and Samuel A. Bowring. The article is available in the UC eScholarship repository: http://escholarship.org/uc/item/989179cs and through the Geological Society of America: http://geology.gsapubs.org/content/42/6/475
 
 This work can be cited as:
-`
-@article{Swanson-Hysell2014a,
-	Author = {Swanson-Hysell, Nicholas L. and Burgess, Seth D. and Maloof, Adam C. and Bowring, Samuel A.},
-	Doi = {10.1130/G35271.1},
-	Journal = {Geology},
-	Title = {Magmatic activity and plate motion during the latent stage of {M}idcontinent {R}ift development},
-	Year = {2014}}
-`
 
+Swanson-Hysell, Nicholas L. and Burgess, Seth D. and Maloof, Adam C. and Bowring, Samuel A., Magmatic activity and plate motion during the latent stage of Midcontinent Rift development: Geology, 2014, v. 42, p. 475-478, 10.1130/G35271.1.
 
 Contents of this repository
 ===============================
 
 Code
 -------------------------------
-This folder contains an IPython notebook that contains statistical data analysis and plotting associated with paleomagnetic data in the the manuscript. In addition to the IPython notebook, the folder contains the pmag.py, pmagplotlib.py, and pmagpyrc.py libraries of PmagPy version 2.206 as well as a library IPmag.py that modifies some of the interactive programs of PmagPy for use in the IPython environment in addition to providing some new functions. This folder also contains a PDF version of notebook to be viewed outside of the IPython generated using nbconvert. Note that the IPython notebook can also be viewed online without an IPython installation at this link where it is rendered better than in the PDF output: http://nbviewer.ipython.org/urls/raw2.github.com/Swanson-Hysell/2014_Swanson-Hysell-et-al_Mamainse/master/Code/Mamainse_Data_Analysis.ipynb
+This folder contains an IPython notebook that contains statistical data analysis and plotting associated with paleomagnetic data in the the manuscript. In addition to the IPython notebook, the folder contains the pmag.py, pmagplotlib.py, and pmagpyrc.py libraries of PmagPy version 2.206 as well as a library IPmag.py that modifies some of the interactive programs of PmagPy for use in the IPython environment in addition to providing some new functions. This folder also contains a PDF version of notebook to be viewed outside of the IPython generated using nbconvert. Note that the IPython notebook can also be viewed online without an IPython installation at this link where it is rendered better than in the PDF output:
+
+http://nbviewer.ipython.org/github/Swanson-Hysell/2014_Swanson-Hysell-et-al_Mamainse/blob/master/Code/Mamainse_Data_Analysis.ipynb
 
 Data
 -------------------------------
